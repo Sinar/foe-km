@@ -1,12 +1,20 @@
 # foe-km
 
-Plone Buildout for Freedom of Expression Cluster Knowledge Management website
+Plone Buildout for Freedom of Expression Cluster Knowledge Management website.
 
-# Development build
+This Plone buildout brings together, content-types and behavior add-ons that are needed 
+for internal and external knowledge management of civil society organizations.
+
+## Development build
 ...
 
-# Deployment build
+## Deployment build
 ...
 
-# Docker
+## Docker
 ...
+
+## Contributors
+
+ * Khairil Yusof <khairil.yusof@sinarproject.org>
+Cancel changes
