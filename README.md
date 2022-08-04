@@ -17,4 +17,3 @@ for internal and external knowledge management of civil society organizations.
 ## Contributors
 
  * Khairil Yusof <khairil.yusof@sinarproject.org>
-Cancel changes
